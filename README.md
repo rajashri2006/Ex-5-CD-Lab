@@ -14,5 +14,7 @@ To write a YACC program to recognize the grammar anb where n>=10.
 8.	Enter a string as input and it is identified as valid or invalid.
 # PROGRAM:
 # OUTPUT
+
+
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
